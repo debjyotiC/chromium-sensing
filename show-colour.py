@@ -28,4 +28,4 @@ for index, row in df.iterrows():
 
     plt.pause(0.1)  # Pause for visualization
 
-plt.show()
+plt.close()
