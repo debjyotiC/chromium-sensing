@@ -3,7 +3,7 @@ import pandas as pd
 
 # define my port and baud rate
 port_addr = "/dev/cu.usbmodem14101"
-dataset_path = "data/sensor_data.csv"
+dataset_path = "data/sensor_data_white.csv"
 baud_rate = 9600
 
 

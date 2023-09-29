@@ -1,7 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-dataset_path = "data/sensor_data.csv"
+dataset_path = "data/sensor_data_white.csv"
 
 df = pd.read_csv(dataset_path)
 
